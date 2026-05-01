@@ -27,6 +27,16 @@ This project analyses crime patterns across London using socio-economic, spatial
 - Crime is strongly spatially clustered
 - Time series models capture trends but struggle at local level
 
+## How to Run
+
+To run this project, you must first upload the provided ZIP folder containing all required datasets.
+
+1. Download and extract the ZIP folder.
+2. Upload the extracted files into your working environment (e.g. Google Colab or local machine).
+3. Ensure all file paths in the notebook match the uploaded data.
+4. Run the notebook from top to bottom.
+
+The code will not run correctly without the data included in the ZIP folder.
 ## Tools & Libraries
 - Python (Pandas, NumPy, Matplotlib)
 - Scikit-learn
